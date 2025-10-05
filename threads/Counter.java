@@ -12,5 +12,8 @@ public class Counter {
 
   public synchronized void incrmentCountSynchronized() {
     count++;
+    // synchronized (Counter.class) {
+    // count++;
+    // }
   }
 }
