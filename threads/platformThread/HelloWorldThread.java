@@ -1,4 +1,4 @@
-package createThread;
+package platformThread;
 
 public class HelloWorldThread {
 

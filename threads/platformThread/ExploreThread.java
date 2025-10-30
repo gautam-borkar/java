@@ -1,4 +1,4 @@
-package createThread;
+package platformThread;
 
 import java.lang.Thread.Builder.OfPlatform;
 
